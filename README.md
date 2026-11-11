@@ -1,6 +1,6 @@
 # Awesome-Cloud-Data-Backup-Recovery
 
-# Top Cloud Data Backup & Recovery Ecosystem
+## Top Cloud Data Backup & Recovery Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Backup as a Service (BaaS), Disaster Recovery & Cyber-Resilient Data Protection*  
