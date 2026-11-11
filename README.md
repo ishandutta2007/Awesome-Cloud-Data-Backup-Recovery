@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Backup-Recovery/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Data-Backup-Recovery?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Backup-Recovery/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Data-Backup-Recovery?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Backup-Recovery/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Data-Backup-Recovery?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Backup-Recovery/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Data-Backup-Recovery?style=for-the-badge&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,7 +64,7 @@ The global Cloud Backup and Disaster Recovery (BDR / DRaaS) market is valued bet
 
 Curated list of the top open-source backup systems, deduplicated snapshot tools, disaster recovery frameworks, and cloud replication engines, ranked by community adoption (**GitHub stargazers** in descending order):
 
-| Project | GitHub Stars | Primary Language / Domain | Description |
+| Project | GitHub_Stars | Primary Language / Domain | Description |
 |---|---|---|---|
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go • Multi-Cloud Sync | The "rsync for cloud storage" supporting over 70 cloud object providers (S3, GCS, Azure Blob, B2, SFTP). Provides synchronization, encryption, caching, and mounting for backup pipelines. |
 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Go • Deduplicated Snapshots | Fast, secure, and authenticated backup program using content-defined chunking (CDC) deduplication and client-side encryption. Works natively with local, SFTP, and object storage. |
